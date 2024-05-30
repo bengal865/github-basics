@@ -1,4 +1,4 @@
-﻿**Lesson Plan 1: Git - Time Travelers of Code**
+﻿**Lesson Plan: Git & GitHub Basics**
 
 **Time Allotment:** 45 minutes
 
