@@ -26,7 +26,7 @@ Imagine you're building a complex program, like a game. Yesterday you added a ne
 **Resources:**
 
 - "Version Control with Git - Atlassian" (<https://www.atlassian.com/git/tutorials>)
-- "[YouTube] Git & GitHub for Beginners" (https://www.youtube.com/watch?v=8Dd7KRpKeaE&pp=ygUYZ2l0IGdpdGh1YiBmb3IgYmVnaW5uZXJz)
+- "Git, GitHub & GitHub Desktop for Beginners" (<https://www.youtube.com/watch?v=8Dd7KRpKeaE&pp=ygUYZ2l0IGdpdGh1YiBmb3IgYmVnaW5uZXJz>)
 
 **Guided Practice (15 minutes)**
 
